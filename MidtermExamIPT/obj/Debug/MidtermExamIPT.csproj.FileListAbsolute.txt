@@ -1,0 +1,11 @@
+C:\Users\Laptop Supplier PH\source\repos\MidtermExamIPT\MidtermExamIPT\bin\Debug\MidtermExamIPT.exe.config
+C:\Users\Laptop Supplier PH\source\repos\MidtermExamIPT\MidtermExamIPT\bin\Debug\MidtermExamIPT.exe
+C:\Users\Laptop Supplier PH\source\repos\MidtermExamIPT\MidtermExamIPT\bin\Debug\MidtermExamIPT.pdb
+C:\Users\Laptop Supplier PH\source\repos\MidtermExamIPT\MidtermExamIPT\obj\Debug\MidtermExamIPT.csproj.AssemblyReference.cache
+C:\Users\Laptop Supplier PH\source\repos\MidtermExamIPT\MidtermExamIPT\obj\Debug\MidtermExamIPT.Properties.Resources.resources
+C:\Users\Laptop Supplier PH\source\repos\MidtermExamIPT\MidtermExamIPT\obj\Debug\MidtermExamIPT.csproj.GenerateResource.cache
+C:\Users\Laptop Supplier PH\source\repos\MidtermExamIPT\MidtermExamIPT\obj\Debug\MidtermExamIPT.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Supplier PH\source\repos\MidtermExamIPT\MidtermExamIPT\obj\Debug\MidtermExamIPT.exe
+C:\Users\Laptop Supplier PH\source\repos\MidtermExamIPT\MidtermExamIPT\obj\Debug\MidtermExamIPT.pdb
+C:\Users\Laptop Supplier PH\source\repos\MidtermExamIPT\MidtermExamIPT\obj\Debug\MidtermExamIPT.QueuingForm.resources
+C:\Users\Laptop Supplier PH\source\repos\MidtermExamIPT\MidtermExamIPT\obj\Debug\MidtermExamIPT.CashierWindowQueue.resources
